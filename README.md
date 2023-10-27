@@ -1,20 +1,16 @@
-### Hi there 👋
+### Olá! Eu sou o Joannegton.👋
 
-<!--
-**Joannegton/joannegton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Professor e Estudande.
+- 🌱 Estudo Engenharia de Computação.
+- 📫E-mail: joannegton@gmail.com
+- 😄 Pronome: Ele/Dele
+- ⚡ Fato engraçado: Adoro estudar kkkk
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/joannegton/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joannegton&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannegton&layout=compact&theme=dracula&langs_count=8&card_width=320" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joannegton&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joannegton&layout=compact&theme=dracula)
