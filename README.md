@@ -6,9 +6,9 @@
 - 😄 Pronome: Ele/Dele
 - ⚡ Fato engraçado: Adoro estudar kkkk
 
-<div style='display:inline-block' align="center">
+<div align="center">
   <a href="https://github.com/joannegton/github-readme-stats">
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=joannegton&show_icons=true&theme=dracula" />
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=joannegton&show_icons&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img width=324 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannegton&layout=compact&theme=dracula&langs_count=8&card_width=320" />
