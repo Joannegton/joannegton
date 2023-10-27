@@ -14,4 +14,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannegton&layout=compact&theme=dracula&langs_count=8&card_width=320" />
 </a>
 
-![Snack animation](https://github.com/Joannegton)
+![Snack animation](https://github.com/joannegton/joannegton/blob/output/github-contribution-grid-snake.svg)
