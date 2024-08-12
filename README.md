@@ -6,7 +6,7 @@ Eu sou Wellington Tavares, um entusiasta em desenvolvimento de software, atualme
 - [NeedDroneApp](https://github.com/Joannegton/NeedDroneApp): Um app Android para interligar o piloto com o cliente.
 
 
-### Linguagens mais utilizadas
+### 🔥 Linguagens mais utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joannegton&layout=compact&hide=css,html&theme=dracula)
 
 ## 🛠️ Tecnologias e Ferramentas
