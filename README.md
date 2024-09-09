@@ -10,8 +10,8 @@ Eu sou Wellington Tavares, um entusiasta em desenvolvimento de software, atualme
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joannegton&layout=compact&hide=css,html&theme=dracula)
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: Kotlin, Java, Python, JavaScript
-- **Frameworks**: Jetpack Compose, Spring Boot, React
+- **Linguagens**: Kotlin, Java, Python, Php, typescript.
+- **Frameworks**: Jetpack Compose, Spring Boot, React, Angular
 - **Ferramentas**: Android Studio, Git, Docker, VS Code
 
 ## 📫 Como me encontrar
