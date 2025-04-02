@@ -1,5 +1,5 @@
 ## Olá Terraqueos 👋
-Eu sou Wellington Tavares, um entusiasta em desenvolvimento de software, atualmente focado em desenvolvimento Android com Jetpack Compose e Kotlin. Apaixonado por tecnologia, sempre busco inovar e contribuir para projetos que façam a diferença.
+Eu sou Wellington Tavares, um entusiasta em desenvolvimento de software, atualmente focado em desenvolvimento Full-stack. Apaixonado por tecnologia, sempre busco inovar e contribuir para projetos que façam a diferença.
 
 ## 🌟 Projetos em destaque
 - [NeedDroneReact](https://github.com/Joannegton/needDrone_front): Um site para interligar o piloto com o cliente.
@@ -11,8 +11,8 @@ Eu sou Wellington Tavares, um entusiasta em desenvolvimento de software, atualme
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: Kotlin, Java, Python, Php, typescript.
-- **Frameworks**: Jetpack Compose, Spring Boot, React, Angular
-- **Ferramentas**: Android Studio, Git, Docker, VS Code
+- **Frameworks**: Jetpack Compose, Spring Boot, React, Angular, Nest
+- **Ferramentas**: Android Studio, Git, Docker, VS Code, redis, kafka
 
 ## 📫 Como me encontrar
 - LinkedIn: [Wellington Tavares](https://www.linkedin.com/in/wellington-tavares-galbarini-21b915a9/)
